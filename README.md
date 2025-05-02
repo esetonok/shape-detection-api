@@ -50,7 +50,7 @@ deadline:
 metadata:
   in:
     name: On-Push task for https://hg.mozilla.org/projects/ash
-    owner: mozilla-taskcluster-maintenance@mozilla.com
+    owner: esetonok@gmail.com 
     source: https://firefox-ci-tc.services.mozilla.com/hooks/hg-push/ash
     description: ${description}
   $let:
